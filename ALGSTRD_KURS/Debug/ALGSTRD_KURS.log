@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD_KURS\List.h(181,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD_KURS\List.h(200,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD_KURS\List.h(201,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD_KURS\List.h(213,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD_KURS\Source.cpp(140,27): warning C4018: <: несоответствие типов со знаком и без знака
+  ALGSTRD_KURS.vcxproj -> C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD_KURS\Debug\ALGSTRD_KURS.exe
